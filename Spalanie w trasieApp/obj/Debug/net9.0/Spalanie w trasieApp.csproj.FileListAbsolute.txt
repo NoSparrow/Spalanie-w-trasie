@@ -1,0 +1,15 @@
+/home/marcin/Pulpit/Programowanie/Spalanie-w-trasie/Spalanie w trasieApp/bin/Debug/net9.0/Spalanie w trasieApp
+/home/marcin/Pulpit/Programowanie/Spalanie-w-trasie/Spalanie w trasieApp/bin/Debug/net9.0/Spalanie w trasieApp.deps.json
+/home/marcin/Pulpit/Programowanie/Spalanie-w-trasie/Spalanie w trasieApp/bin/Debug/net9.0/Spalanie w trasieApp.runtimeconfig.json
+/home/marcin/Pulpit/Programowanie/Spalanie-w-trasie/Spalanie w trasieApp/bin/Debug/net9.0/Spalanie w trasieApp.dll
+/home/marcin/Pulpit/Programowanie/Spalanie-w-trasie/Spalanie w trasieApp/bin/Debug/net9.0/Spalanie w trasieApp.pdb
+/home/marcin/Pulpit/Programowanie/Spalanie-w-trasie/Spalanie w trasieApp/obj/Debug/net9.0/Spalanie w trasieApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/marcin/Pulpit/Programowanie/Spalanie-w-trasie/Spalanie w trasieApp/obj/Debug/net9.0/Spalanie w trasieApp.AssemblyInfoInputs.cache
+/home/marcin/Pulpit/Programowanie/Spalanie-w-trasie/Spalanie w trasieApp/obj/Debug/net9.0/Spalanie w trasieApp.AssemblyInfo.cs
+/home/marcin/Pulpit/Programowanie/Spalanie-w-trasie/Spalanie w trasieApp/obj/Debug/net9.0/Spalanie w trasieApp.csproj.CoreCompileInputs.cache
+/home/marcin/Pulpit/Programowanie/Spalanie-w-trasie/Spalanie w trasieApp/obj/Debug/net9.0/Spalanie w trasieApp.sourcelink.json
+/home/marcin/Pulpit/Programowanie/Spalanie-w-trasie/Spalanie w trasieApp/obj/Debug/net9.0/Spalanie w trasieApp.dll
+/home/marcin/Pulpit/Programowanie/Spalanie-w-trasie/Spalanie w trasieApp/obj/Debug/net9.0/refint/Spalanie w trasieApp.dll
+/home/marcin/Pulpit/Programowanie/Spalanie-w-trasie/Spalanie w trasieApp/obj/Debug/net9.0/Spalanie w trasieApp.pdb
+/home/marcin/Pulpit/Programowanie/Spalanie-w-trasie/Spalanie w trasieApp/obj/Debug/net9.0/Spalanie w trasieApp.genruntimeconfig.cache
+/home/marcin/Pulpit/Programowanie/Spalanie-w-trasie/Spalanie w trasieApp/obj/Debug/net9.0/ref/Spalanie w trasieApp.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Spalanie w trasieApp/1.0.0": {
+        "runtime": {
+          "Spalanie w trasieApp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Spalanie w trasieApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
