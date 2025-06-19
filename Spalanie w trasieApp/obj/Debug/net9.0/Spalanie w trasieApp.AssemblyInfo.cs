@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Spalanie w trasieApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1e0de16b7bb4260381e23f3ed80f4a2c4eab2503")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6c1d330ad780df25162dc76f7dd7d80bccfafd56")]
 [assembly: System.Reflection.AssemblyProductAttribute("Spalanie w trasieApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Spalanie w trasieApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
